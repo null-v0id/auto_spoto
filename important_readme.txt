@@ -1,0 +1,7 @@
+Before you run the script make sure you have:
+A Twilio account and a Spotify account
+
+Kindly make sure you have your Twilio and Spotify's 'Auth token', 'Client Id', 'Client secret' as needed in the script
+
+Thank you for viewing my repo
+This is my first project, so feel free to HMU for any advice/suggestions at 'seemanalawade03@gmail.com'
